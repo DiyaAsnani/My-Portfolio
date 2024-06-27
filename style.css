@@ -31,6 +31,7 @@ section{
     max-width: 1300px;
     padding: 0 80px;
     margin: auto;
+    font-size: 30px;
 }
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
